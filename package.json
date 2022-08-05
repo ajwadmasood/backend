@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ajwad",
-	"description" : "server idk",
+	"description": "server idk",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
